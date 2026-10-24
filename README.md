@@ -5,7 +5,7 @@ A personal portfolio website presenting my education, academic projects, interns
 🌐 **Portfolio:** https://abhishek-raut.vercel.app/  
 💻 **GitHub:** https://github.com/abhishekraut7391  
 🔗 **LinkedIn:** https://www.linkedin.com/in/abhishek-raut-372021311/  
-📄 **Resume:** https://abhishek-raut.vercel.app/resume/resume.pdf
+📄 **Resume:** https://abhishek-raut.vercel.app/resume.html
 
 ## Featured work
 
@@ -24,7 +24,7 @@ A personal portfolio website presenting my education, academic projects, interns
 - Responsive single-page layout and dark/light theme toggle
 - About, skills, projects, internship experience, education, and contact sections
 - Profile photograph at `images/abhi.jpg`
-- Downloadable resume at `resume/resume.pdf`
+- Current printable resume page at `resume.html`
 
 ## Deployment
 
