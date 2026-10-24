@@ -2,7 +2,7 @@
 
 A personal portfolio website for presenting my background, selected work, education, internship experience, and contact details.
 
-🌐 **Vercel target URL:** https://abhishek-raut.vercel.app  
+🌐 **Vercel project URL:** https://abhishek-portfolio-et4h.vercel.app/  
 🧩 **Previous hosted version:** https://abhishekrautportfolio.space-z.ai  
 💻 **GitHub profile:** https://github.com/abhishekraut7391  
 🔗 **LinkedIn:** https://www.linkedin.com/in/abhishek-raut-372021311/
@@ -37,7 +37,7 @@ A personal portfolio website for presenting my background, selected work, educat
 1. In Vercel, import the GitHub repository `abhishekraut7391/abhishek-portfolio`.
 2. For this static HTML site, use the repository root as the project root and leave the build command empty.
 3. Deploy the `main` branch. When Git integration is enabled, new commits to `main` can trigger redeployments.
-4. After publishing, verify the profile photo, navigation, resume link, dark/light theme, and contact action on the live URL.
+4. After publishing, verify the profile photo, navigation, resume link, dark/light theme, and contact action on the Vercel URL.
 
 ## Contact form
 
