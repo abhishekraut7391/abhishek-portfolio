@@ -9,9 +9,9 @@ A personal portfolio website presenting my education, academic projects, interns
 
 ## Featured work
 
-- **FixMate — Premium Home Services Platform (M.Sc.)**: responsive front-end prototype; uses in-memory JavaScript data. Live backend/database connectivity remains future scope.
-- **Online Stationery Management System (B.Sc.)**: “Stationery Treasures” shopping and order-management project using HTML, CSS, JavaScript, jQuery, PHP, and PostgreSQL.
-- **Om Arts Business Website**: business website concept for custom name plates, stamps, UV printing, and signage.
+- **FixMate — Premium Home Services Platform (M.Sc.)**: [project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/fixmate/README.md); responsive front-end prototype using in-memory JavaScript data. Live backend/database connectivity remains future scope.
+- **Online Stationery Management System (B.Sc.)**: [project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/online-stationery-management-system/README.md); “Stationery Treasures” shopping and order-management project using HTML, CSS, JavaScript, jQuery, PHP, and PostgreSQL.
+- **Om Arts Business Website**: [project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/om-arts-business-website/README.md); business website concept for custom name plates, stamps, UV printing, and signage.
 
 ## Built with
 
