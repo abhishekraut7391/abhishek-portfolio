@@ -1,7 +1,7 @@
 # Online Stationery Management System — Stationery Treasures
 
 **Project:** B.Sc. Computer Science final-year project  
-**Academic year:** 2024–2025  
+**Academic year:** 2023–2024  
 **Author:** Abhishek Balkrishna Raut
 
 ## Overview
