@@ -13,6 +13,8 @@ A personal portfolio website presenting my education, academic projects, interns
 - **Online Stationery Management System (B.Sc.)**: [project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/online-stationery-management-system/README.md); “Stationery Treasures” shopping and order-management project using HTML, CSS, JavaScript, jQuery, PHP, and PostgreSQL.
 - **Om Arts Business Website**: [project documentation](https://github.com/abhishekraut7391/abhishek-portfolio/blob/main/projects/om-arts-business-website/README.md); business website concept for custom name plates, stamps, UV printing, and signage.
 
+**Project documentation note:** The `projects/` folders in this portfolio repository contain project summaries only. The original source code, database exports, and academic reports for those projects are not included in this repository.
+
 ## Built with
 
 - HTML5 and CSS3
